@@ -12,7 +12,7 @@ Query the database with TypeORM in three ways:
 - Query Builder
 - Raw Query
 
-## :space_invader: _Useful links_
+## _Useful links_ :space_invader:
 
 [Application Template](https://github.com/rocketseat-education/ignite-template-database-queries)
 
